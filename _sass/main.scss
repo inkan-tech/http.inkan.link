@@ -1,0 +1,11 @@
+---
+---
+
+// SCSS SYNTAX
+$font-stack: Tokyo, sans-serif;
+$primary-color: #9d2933;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
