@@ -1,14 +1,14 @@
 ---
 ---
 
-// Colors
-$primary: #e5261f;
+// Colors see https://www.colorhexa.com/9d2933
+$primary: #a01b16;
 $primary-dark: #a01b16;
-$secondary: #f88379;
+$secondary: #9d2933;
 $black: #2f2f41;
 $white: #ffffff;
 $white-offset: #fff6f8;
-$steel: #5c5a5a;
+$steel: #296d9d;
 
 // Links
 $link-color: $primary;
@@ -17,11 +17,11 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Tokyo-Regular,  sans-serif, -apple-system;
-$font-family-heading: Tokyo-Outline, sans-serif, -apple-system;
+$font-family-base: Tokyo-Outline,  sans-serif, -apple-system;
+$font-family-heading: Tokyo, sans-serif, -apple-system;
 
 // Footer
-$footer-background-color: $primary;
+$footer-background-color: $primary-dark;
 $footer-text-color: $white;
 $sub-footer-background-color: darken($primary, 10%);
 $sub-footer-text-color: $white;
