@@ -7,4 +7,4 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Inkan.link directions
+# Inkan.link synopsis

@@ -7,3 +7,8 @@ Using : Jekyll Serif Theme
 Must copy/fork the theme and modify (no remote Theme).
 
 Works with Github pages and dns redirection.
+
+## Tips
+
+Get a proper date format:
+```date --iso-8601=seconds```

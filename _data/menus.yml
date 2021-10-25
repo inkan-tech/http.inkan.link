@@ -1,5 +1,5 @@
 main:
-  - name: "Directions"
+  - name: "Synopsis"
     url: "/services/"
     weight: 2
   - name: "Team"
