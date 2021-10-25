@@ -5,7 +5,7 @@ draft: false
 image: "images/team/MeCravatte.png"
 jobtitle: "Founder CEO"
 linkedinurl: "https://www.linkedin.com/in/nicolasthomasfr"
-weight: 1
+weight: 2
 layout: team
 ---
 
