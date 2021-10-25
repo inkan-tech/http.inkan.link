@@ -5,18 +5,20 @@ draft: false
 image: "images/team/MeCravatte.png"
 jobtitle: "Founder CEO"
 linkedinurl: "https://www.linkedin.com/in/nicolasthomasfr"
-weight: 1
+weight: 2
 layout: team
 ---
+
+![Nicolas](../images/team/MeCravatte.png)
 
 Standards, MANO and VNF Strategist \@Fortinet NFV pioneer – CSE
 20 years of experience in distributed systems, commoditized in the Cloud. NFV pioneer spreadhead the telco industry move to VMs and clouds. A strategist in the field in a cybersecurity organization. Public speaker. Thought leader. Investor. Standard editor (Security as a service). Range from standards to sales (c-level) and coding. In a nutshell, I have helped organizations ride the waves of changes consistently before the hype.
 
-Editor of MEF88 project
+Editor of MEF88 project: Application Security for SD-WAN Services Project
 
-Application Security for SD-WAN Services Project
 NFV Pioneer,  ETSI representative for Fortinet, ETSI Security week selection committee for AI.
 Public speaker. CloudNative/DevOps security strategist. Ansible committer
+
 Co-founder of various opensource and standard communities.
 Intrapreneur in charge of securing automated solutions at Fortinet.
 
