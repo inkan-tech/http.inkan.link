@@ -3,25 +3,25 @@
     "title": "Multi factor certification",
     "description": "Multi factor certification",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/certificate-svgrepo-com.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Privacy native",
+    "description": "The only source of revenues is customers trust and privacy protection.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/private-information.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Enteprises services",
+    "description": "Enterprises services based on co-verified private data.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/business-shop.svg",
       "width": 80,
       "height": 80
     }

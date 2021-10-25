@@ -1,11 +1,11 @@
 ---
 title: "Nicolas Thomas"
-date: 2018-11-19T10:47:58+10:00
+date: 2021-11-19T10:47:58+02:00
 draft: false
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/MeCravatte.jpg"
 jobtitle: "Founder CEO"
 linkedinurl: "https://www.linkedin.com/in/nicolasthomasfr"
-weight: 2
+weight: 1
 layout: team
 ---
 
