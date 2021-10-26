@@ -2,7 +2,7 @@
 title: "Nicolas Thomas"
 date: 2021-10-25T16:55:44+02:00
 draft: false
-image: "../images/team/MeCravatte.png"
+image: "../images/team/NicolasT_400x400.jpg"
 jobtitle: "Founder CEO"
 linkedinurl: "https://www.linkedin.com/in/nicolasthomasfr"
 promoted: true
@@ -10,11 +10,12 @@ weight: 1
 layout: team
 ---
 
+![Nicolas](/images/team/MeCravatte.png){:height="180px" width="180px"}
 
 Standards, MANO and VNF Strategist @Fortinet NFV pioneer – CSE
 20 years of experience in distributed systems, commoditized in the Cloud. NFV pioneer spreadhead the telco industry move to VMs and clouds. A strategist in the field in a cybersecurity organization. Public speaker. Thought leader. Investor. Standard editor (Security as a service). Range from standards to sales (c-level) and coding. In a nutshell, I have helped organizations ride the waves of changes consistently before the hype.
 
-![Nicolas](/images/team/MeCravatte.png)
+
 
 Editor of MEF88 project: Application Security for SD-WAN Services Project
 
