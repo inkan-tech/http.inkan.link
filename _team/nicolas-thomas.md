@@ -14,7 +14,7 @@ layout: team
 Standards, MANO and VNF Strategist @Fortinet NFV pioneer – CSE
 20 years of experience in distributed systems, commoditized in the Cloud. NFV pioneer spreadhead the telco industry move to VMs and clouds. A strategist in the field in a cybersecurity organization. Public speaker. Thought leader. Investor. Standard editor (Security as a service). Range from standards to sales (c-level) and coding. In a nutshell, I have helped organizations ride the waves of changes consistently before the hype.
 
-![Nicolas](/images/team/MeCravatte.png){:height="180px" width="180px"}
+![Nicolas](/images/team/MeCravatte.png){:height="120px" width="120px"}
 
 
 Editor of MEF88 project: Application Security for SD-WAN Services Project
