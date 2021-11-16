@@ -21,4 +21,4 @@ We are going to reverse the relationship, our goal is to be trusted by end custo
 
 Enable consumers to benefit from their data  with their full consent. Create a platform for entreprises to provide verifiable data/proof (localisation) and services like  garanties,  settlements
 
-## Values
+<!-- ## Values -->
