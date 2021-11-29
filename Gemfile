@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.7.4"
+gem "jekyll"
 gem "jekyll-environment-variables"
 gem "github-pages"
+# make it works with Jekyll 3.0
+gem "webrick"

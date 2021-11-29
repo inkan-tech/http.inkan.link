@@ -8,6 +8,14 @@ Must copy/fork the theme and modify (no remote Theme).
 
 Works with Github pages and dns redirection.
 
+# Install/run
+
+Check Jekyll install
+
+
+
+Run locally
+``` bundle exec jekyll serve```
 ## Tips
 
 Get a proper date format:
