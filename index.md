@@ -1,14 +1,14 @@
 ---
 title: Inkan.link
 layout: home
-description: Make your data benefit you​.
+description: Enhance trust in data by chaining private sources
 intro_image: "images/illustrations/craft-inkan.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# Make your data benefit you​
+# Enhance trust in data by chaining private sources
 
 Everyone leaves digital traces on many systems. Those data never benefit the user; at best, lawful entities use them in criminal cases. Those data are precious from a security point of view because they are easy to create and hard to alter.
 
