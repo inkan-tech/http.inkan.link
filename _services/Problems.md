@@ -15,7 +15,8 @@ Those logs are unexploited data mines [1]. They can create trusted data and redu
 
 ## IT security is a failure
 
-The most common approach to secure an IT system is based on the lack of involvement and confidence in users and applications. Safety is ensured a posteriori, by the network and for those who pay it, summarized large companies, states, and very regulated environments. Secure solutions from the design exist, of course but it's marginalized.
+The most common approach to secure an IT system is only to hunt for the bad actors, usage transactions. Their is an enormous lack of involvement and trust in users and applications. Security is an afterthought, done on the network and the premium users.
+Secure solutions by design exist, of course, but are marginal and linked to heavy regulation.
 
 The result is that it is always more complex and more expensive to secure because it is an externality to the initial business. The security cost only increased, but the protection remains pretty stable. Premium customers or those providing the service (insurers, for example) must cover the security for everyone.
 
@@ -26,7 +27,7 @@ Privacy offers are almost always false promises.
 
 ## Mandatory espionage
 
-An enterprise has a crucial need to ensure the legitimacy of the data sent to them. Technically, he more data on a user, the safer, but users feel spied. The circle is vicious; honest users will try to escape monitoring, and become more expensive due to increased complexity. Digitization was initially intended to reduce processing costs.
+An enterprise has a crucial need to ensure the legitimacy of the data sent to them. Technically, the more data on a user, the safer, but users feel spied. The circle is vicious; honest users will try to escape monitoring and become more expensive due to increased complexity. Digitization was initially intended to reduce processing costs.
 
 ## Loss of confidence, terms & conditions
 
