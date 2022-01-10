@@ -8,7 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 ---
 
-# Enhance trust in data by chaining private sources
+# Enhance trust in data by chaining verified  sources
 
 Everyone leaves digital traces on many systems. Those data never benefit the user; at best, lawful entities use them in criminal cases. Those data are precious from a security point of view because they are easy to create and hard to alter.
 
