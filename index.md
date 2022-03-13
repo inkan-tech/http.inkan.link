@@ -3,7 +3,7 @@ title: Inkan.link
 layout: home
 description: Enhance trust in data by chaining private sources
 intro_image: "images/illustrations/craft-inkan.jpg"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: false
 ---
