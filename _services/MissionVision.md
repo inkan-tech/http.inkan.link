@@ -1,7 +1,7 @@
 ---
 title: "Vision Mission"
 date: 2021-10-25T16:55:44+02:00
-featured: true
+featured: false
 weight: 1
 ---
 

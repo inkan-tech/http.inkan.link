@@ -12,6 +12,7 @@ Works with Github pages and dns redirection.
 
 Check Jekyll install
 
+Might need ```gem update --system ```
 
 
 Run locally
@@ -20,3 +21,4 @@ Run locally
 
 Get a proper date format:
 ```date --iso-8601=seconds```
+on macos ```date -Iseconds```

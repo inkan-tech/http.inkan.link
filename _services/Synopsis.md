@@ -11,6 +11,7 @@ Privacy of customers as a business model. Pretending to care about privacy when 
 We are going to reverse the relationship, our goal is to be trusted by end customers and business to be the privacy custodians. Today if you care about your data you have to build your services yourself. We can do better.
 
 Enable consumers to benefit from their data  with their full consent. Create a platform for entreprises to provide verifiable data/proof (localisation) and services like  garanties,  settlements
+
 ## Vision
 
 Frictionless and private native services for everyone. 
